@@ -1,0 +1,22 @@
+{
+  "name": "db3-mysql",
+  "version": "1.0.0",
+  "description": "MySQL plugin for db3",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afanasy/db3-mysql.git"
+  },
+  "author": "Afanasii Kurakin <afanasy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afanasy/db3-mysql/issues"
+  },
+  "homepage": "https://github.com/afanasy/db3-mysql",
+  "dependencies": {
+    "mysql": "2.9.0",
+    "underscore": "1.8.3"
+  }
+}

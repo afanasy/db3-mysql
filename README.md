@@ -1,2 +1,1 @@
-# db3-mysql
-MySQL plugin for db3
+MySQL plugin for [db3](https://github.com/afanasy/db3)
